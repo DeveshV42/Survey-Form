@@ -1,0 +1,33 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(0, 153, 255);
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+form {
+    border: 1px solid #1b1818;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+   text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+.error-message {
+    color: red;
+}
